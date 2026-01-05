@@ -1,7 +1,7 @@
 📖 Friendship Guide Website
 A comprehensive resource guide for building and maintaining meaningful friendships, based on Bible principles from jw.org.
 
-Live Website: https://thetamaoul.github.io/friendship-guide/
+Live Website: https://thetamoul.github.io/friendship-guide/
 
 📌 About This Project
 This website contains:
@@ -52,15 +52,25 @@ friendship-guide/
 ├── index.html       ← Main website (edit this to update content)
 └── README.md        ← This file
 🔧 Key Sections in index.html
-Section ID	Content	How to Update
-#section-making-friends	Core articles on making friends	Search for "CORE ARTICLES ON MAKING FRIENDS" in HTML
-#section-maintaining-friends	Maintaining friendships	Search for "ARTICLES ON MAINTAINING FRIENDSHIPS"
-#section-loneliness	Overcoming loneliness	Search for "ADDRESSING LONELINESS"
-#section-digital	Technology & relationships	Search for "DIGITAL RELATIONSHIPS"
-#section-choosing	Choosing good friends	Search for "CHOOSING GOOD FRIENDS"
-#section-bible	Bible principles	Search for "BIBLE-BASED PRINCIPLES"
-#section-quick-ref	Quick reference guide	Search for "QUICK REFERENCE GUIDE"
-#section-situations	Resources by situation	Search for "RESOURCES BY LIFE SITUATION"
+Section ID	
+Content	How to Update
+#section-making-friends	
+Core articles on making friends	Search for "CORE ARTICLES ON MAKING FRIENDS" in HTML
+#section-maintaining-friends	
+Maintaining friendships	Search for "ARTICLES ON MAINTAINING FRIENDSHIPS"
+#section-loneliness	
+Overcoming loneliness	Search for "ADDRESSING LONELINESS"
+#section-digital	
+Technology & relationships	Search for "DIGITAL RELATIONSHIPS"
+#section-choosing	
+Choosing good friends	Search for "CHOOSING GOOD FRIENDS"
+#section-bible	
+Bible principles	Search for "BIBLE-BASED PRINCIPLES"
+#section-quick-ref	
+Quick reference guide	Search for "QUICK REFERENCE GUIDE"
+#section-situations	Resources by situation	
+Search for "RESOURCES BY LIFE SITUATION"
+
 ✏️ Common Edits
 To update an article link:
 Find the URL in the HTML and replace it:
@@ -96,12 +106,12 @@ Use the Table of Contents (clickable links) for easy navigation
 
 Print to PDF for offline sharing
 
-Share the live link with friends: https://thetamaoul.github.io/friendship-guide/
+Share the live link with friends: https://thetamoul.github.io/friendship-guide/
 
 Backup your changes by keeping a copy of index.html locally
 
 📧 Questions?
-For updates or questions about the resource, visit www.jw.org/en/library/ or connect with your local Jehovah's Witnesses community.
+For updates or questions about the resource, visit www.jw.org/en/library/ or connect with your local Jehovah's Witnesses congregation by finding a location near you @ https://www.jw.org/en/jehovahs-witnesses/meetings/.
 
 Last Updated: January 5, 2026
 Repository: thetamoul/friendship-guide
